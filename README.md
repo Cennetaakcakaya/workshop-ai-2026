@@ -8,8 +8,13 @@ https://pia-team.github.io/workshop-ai-2026/
 
 ## Contents
 
-The workshop is delivered as a single, self-contained HTML file (`index.html`).
-No build step or external dependencies are required to view it.
+The workshop is delivered as self-contained HTML files. No build step or
+external dependencies are required to view them.
+
+- `index.html` — the presentation deck (19 slides).
+- `gorevler.html` — participant tasks (12 exercises). The closing slide of the
+  deck links here via a QR code and short URL so participants can open it on
+  their own devices.
 
 ## Local preview
 
